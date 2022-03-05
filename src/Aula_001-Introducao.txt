@@ -1,0 +1,11 @@
+Video de introdução sobre o curso de programação em Python.
+https://www.youtube.com/watch?v=ih9xRfM0QE8&list=PLiu4wMrYDH6IvwMPVABUF4W0MFESxw0S_
+
+Link para compra do livro na Amazon (capa comum):
+https://www.amazon.com.br/gp/product/...
+
+Link para compra do livro na Amazon (e-book kindle):
+https://www.amazon.com.br/gp/product/...
+
+Link para o site do livro para download de código fonte:
+https://ehmatthes.github.io/pcc/
