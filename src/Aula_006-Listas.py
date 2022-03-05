@@ -8,5 +8,5 @@ print("Acessando o primeito elemento da lista : " + lstLinguagens[0])
 #quando extraio o elemento da lista posso usar os metódos ref. ao tipo de dado, neste caso usando upper da string
 print("Acessando o segundo elemento da lista : " + lstLinguagens[2].upper())
 
-#Como extrai um numerico preciso converter para string para colocar no  print
+#Como extrai um numerico preciso converter para string para colocar no  print..
 print("Acessando o terceiro elemento (neste caso numerico)  da lista : " + str(lstLinguagens[3]))
