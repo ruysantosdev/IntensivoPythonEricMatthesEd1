@@ -1,5 +1,5 @@
 #fonte: https://www.youtube.com/watch?v=hBfvVe98In8&list=PLiu4wMrYDH6IvwMPVABUF4W0MFESxw0S_&index=6
-lstLinguagens = ['python','C','java', 10.35]
+lstLinguagens = ['python','C','java', 10.35, 123.45685299]
 print(lstLinguagens)
 
 #acessando o primeiro elemento da lista
@@ -9,4 +9,7 @@ print("Acessando o primeito elemento da lista : " + lstLinguagens[0])
 print("Acessando o segundo elemento da lista : " + lstLinguagens[2].upper())
 
 #Como extrai um numerico preciso converter para string para colocar no  print..
-print("Acessando o terceiro elemento (neste caso numerico)  da lista : " + str(lstLinguagens[3]))
+print("Acessando o terceiro elemento (neste caso numerico) da lista : " + str(lstLinguagens[3]))
+
+print(f"Acessando o quinto elemento (neste caso numerico) da lista : {lstLinguagens[4]}")
+
