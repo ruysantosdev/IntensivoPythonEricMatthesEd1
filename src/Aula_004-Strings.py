@@ -24,6 +24,14 @@ print(frase)
 frase2 = "Eu nado os seguintes estilos de natação : \n " +  "\t - craw ou nado livre \n " +  "\t - costas \n " + "\t - peito \n " + "\t - borboleta \n "
 print(frase2)
 
+#para quebrar a sting em várias linhas, usar o / após a concatenação com o +
+frase3 = "Minhas comidas favoritas são : \n " +  \
+         "\t - japonesa \n " +  \
+         "\t - bacalhau \n " +  \
+         "\t - churrasco \n " + \
+         "\t - feijoada \n "
+print(frase3)
+
 #retirar espaços esquerda , direita e de ambos os lados
 string_espacos_esquerda = "     Eu estou apredendendo Python3"
 string_espacos_direita = "Eu estou apredendendo Python3      "
@@ -35,3 +43,13 @@ print(" ***** retirando os espaços ******* ")
 print( "Retirando espaços a esquerda :"+ string_espacos_direita.lstrip())
 print( "Retirando espaços a direira :"+ string_espacos_direita.rstrip())
 print( "Retirando espaços em ambos os lados :" + string_espacos_direita.strip())
+
+
+
+faturamento = 1000
+lucro = 300
+print("O faturamento da empresa foi de " + str(faturamento) + " e o lucro foi de " + str(lucro))
+
+#como concatenar sem o sinal de + , usando f strings, muito mais fácil e não precisa converter numero para string.
+print(f"O faturamento da empresa foi de {faturamento} e o lucro foi de {lucro}")
+
