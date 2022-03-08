@@ -18,7 +18,7 @@ elif alien['veloc'] == 'media':
 else:
     x_incr = 3
 
-#Incrementando o valor de um valor do dicionário, dependendo da cadeia de condições acima.
+#Incrementando o valor de um valor do dicionário, dependendo da cadeia de condições acima....
 alien['x_pos'] = alien['x_pos'] + x_incr
 
 print(f"A nova posição x do alien, após o incremento é  {alien['x_pos']} ")
