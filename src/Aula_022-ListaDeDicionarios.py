@@ -34,7 +34,7 @@ for alien in aliens:
 print("---------------------------------------------------")
 print("     LISTA ATUALIZADA DOS ALIENS ALTERADOS         ")
 print("---------------------------------------------------")
-#Alterando os 3 primiros aliens para amarelo com pontuiação = 10
+#Alterando os 3 primeiros aliens para amarelo com pontuiação = 10
 
 #Printando a lista de aliens novamente, após alteração:
 #contador de aliens
