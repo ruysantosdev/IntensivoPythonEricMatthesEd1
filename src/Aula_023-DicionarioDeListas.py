@@ -38,7 +38,7 @@ print("------------------------------------------------------")
 print(" RAÇAS DE CACHORROS E SUAS PRINCIPAIS CARACTERÍSTICAS ")
 print("------------------------------------------------------")
 for raca, caracteristicas in raca_caracteristica.items():
-    print(f"\nA raça {raca.title()} possui as seguintes características :")
+    print(f"\nA raça {} possui as seguintes características :")
     for caracteristica in caracteristicas:
         print(f"- {caracteristica} ")
 
